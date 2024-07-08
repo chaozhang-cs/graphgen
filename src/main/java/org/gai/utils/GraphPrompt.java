@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GraphPrompt {
-    public static final String PROMPTS_PATH = "/home/chao/Workspace/gai/GraphData-main/prompt_generator/top_prompts";
+    public static final String PROMPTS_PATH = "./GraphData-main/prompt_generator/top_prompts";
     public static final String[] SERIALIZATIONS = new String[]{
             "Adjacency",
             "FullAdjacency",
